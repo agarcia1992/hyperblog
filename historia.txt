@@ -4,6 +4,5 @@ Mi nombre es Abdul Garcia
 Soy estudiante de Ingeneria en sistemas
 cursando el 10mo semestre. En mis tiempos libres
 Duermo, veo TV y programo con JAVA.
-Tengo 30 años
 
-Hoy hablaremos de su vida y obra maestra
+Mañana nos enfocaremos en su vida laboral
